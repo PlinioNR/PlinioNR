@@ -30,5 +30,5 @@ I enjoy building apps with a focus on UI/UX and clean code.
 Flutter · Dart · JavaScript · HTML/CSS · React · Vue.js · Spring Boot · Supabase · Figma
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/) · Porto, Portugal)
+[LinkedIn](https://www.linkedin.com/in/plinio-rodrigues-bb5a69272/) · Porto, Portugal
 
